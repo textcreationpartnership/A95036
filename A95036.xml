@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True description of the birth, education, life and death of William Ward, alias Walker, alias Waller, alias Slaughter who was borne in Cumberland, and exected at Tyburne the 26 of Iuly 1641 : with his confession at the place of execution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95036</idno>
+            <idno type="STC">Wing T2675A</idno>
+            <idno type="STC">ESTC R43790</idno>
+            <idno type="EEBO-CITATION">42475246</idno>
+            <idno type="OCLC">ocm 42475246</idno>
+            <idno type="VID">151404</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95036)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151404)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2258:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True description of the birth, education, life and death of William Ward, alias Walker, alias Waller, alias Slaughter who was borne in Cumberland, and exected at Tyburne the 26 of Iuly 1641 : with his confession at the place of execution.</title>
+               </titleStmt>
+               <extent>1 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.H. for Francis Coules ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures:</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waller, William, d. 1641.</term>
+               <term>Martyrs --  England.</term>
+               <term>Anti-Catholicism --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151404:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <p>A TRUE DESCRIPTION OF THE BIRTH, EDV<g ref="char:EOLhyphen"/>cation, Life and Death OF <hi>William Ward,</hi>
+            </p>
+            <p>
+               <hi>ALIAS</hi> Walker, <hi>alias</hi> Waller, <hi>alias</hi> Slaughter, who was borne in <hi>Cumberland,</hi> and executed at <hi>Tyburne</hi> the 26, of Iuly 1641.</p>
+            <p>With his Confeſsion at the place of Execution.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. H.</hi> for <hi>Francis Coules</hi> in the Old Bailey, 1641.</p>
+            <pb facs="tcp:151404:2"/>
+            <!-- PDF PAGE 50 -->
+            <pb facs="tcp:151404:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 50 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151404:3"/>
+            <!-- PDF PAGE 51 -->
+            <pb facs="tcp:151404:3"/>
+            <!-- PDF PAGE 51 -->
+            <head>A true Deſcription of the birth, edu<g ref="char:EOLhyphen"/>cation, life, and death of <hi>William Ward, Who was executed at</hi> Tyburne <hi>the</hi> 26. <hi>of Iuly</hi> 1641.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Is generally obſerved that where God beſtowes the beſt gifts, there, for the moſt part the worſt uſe is made of them: There is ſeldome any vertue that is not attended on, if not over-luld by ſome vice. God beſtowes on ſome wit, learning, knowledge, wiſdome, valour, and many more heavenly gifts in a more ample man<g ref="char:EOLhyphen"/>ner then on others, who being left over to them<g ref="char:EOLhyphen"/>ſelves, theſe graces tend rather to their ruine and de<g ref="char:EOLhyphen"/>ſtruction, then to their comfort here and eternall ſal<g ref="char:EOLhyphen"/>vation hereafter, as many examples in theſe preſent times ſufficiently teſtifie. I could ſpeake of the Earle of <hi>Strafford,</hi> who was endued with more then ordinary vertues, and yet that firſt and damned ſinne Ambition did ſo overweigh his good parts in the ſcales of Juſtice, that it rendred him odious and con<g ref="char:EOLhyphen"/>temptible to three Kingdomes, cut off his life un<g ref="char:EOLhyphen"/>timely, branded him with the juſt name of Traitor,
+<pb facs="tcp:151404:4"/>
+               <!-- PDF PAGE 52 -->and corrupted the blood of his innocent poſterity: but it would be needleſſe to inſtance in any other examples then of this <hi>Ieſuite,</hi> whoſe birth, education, life, and death was as hereafter is expreſſed.</p>
+            <p>He was the ſonne to one Maſter <hi>Robert Ward,</hi> a gentleman of good repute, who lived in Cumber<g ref="char:EOLhyphen"/>land, and though a yonger brother, and borne to ſmall fortunes, he matched with a rich widow, who had a joynture of ſome hundred pounds <hi>per annum,</hi> on whom he begot this <hi>William Ward,</hi> who untill he was foureteene yeeres of age he was educated in the beſt Schooles of Religion and Learning that that Countrey afforded, where he profited exceedingly, and ſurpaſſed (if credit may be given to common report) his friends expectations. He was no ſooner foureteene yeeres of age but he was more able and fit to inſtruct then to learne of his Countrey School<g ref="char:EOLhyphen"/>maſter; whereupon, his Father ſeeing him ſo capa<g ref="char:EOLhyphen"/>ble and induſtrious withall, ſent him to be further edoctrinated in a very famous Schoole at Leeds in Yorkeſhire, where he remained untill he was eigh<g ref="char:EOLhyphen"/>teene yeere of age, by which time he perfectly at<g ref="char:EOLhyphen"/>tained the Latine and Greeke tongues, and could diſcourſe as familiarly in them as in his native tongu. His Father being ſenſible of his admirable ingenui<g ref="char:EOLhyphen"/>ty was very deſirous to make him a Scholler, and he affecting no courſe of life but that, was ſent to Ox<g ref="char:EOLhyphen"/>ford, and there admitted a Student of Brazen-noſe Colledge, where he continued for the ſpace of ſe<g ref="char:EOLhyphen"/>ven yeeres, during which time he was generally ac<g ref="char:EOLhyphen"/>counted the ableſt Diſputant that Colledge con<g ref="char:EOLhyphen"/>tain'd:
+<pb facs="tcp:151404:4"/>
+               <!-- PDF PAGE 52 -->His fallacies would ſeeme reall Syllogiſmes, and like a true Sophiſter would winde his arguments which way hee pleaſed, to the aſtoniſhment of his antagoniſts: In which time his Father and Mother both dyed, ſo that he was then deſtitute of meanes to maintain him any longer at the Vniverſity: wher<g ref="char:EOLhyphen"/>upon he was forced to ſeeke his fortunes; and then repaired to London, where he remained in expecta<g ref="char:EOLhyphen"/>tion of ſome preferment for the ſpace of halfe a yeer, in which time all his meanes was ſpent, and hee no way advantaged his fortunes. That then by acci<g ref="char:EOLhyphen"/>dent he happened into the company of one Maſter <hi>Dutton</hi> a welch gentleman, who was to travell into Spaine onely for pleaſure ſake, and to ſee the faſhi<g ref="char:EOLhyphen"/>ons of thoſe Countries, and promiſed to beare the charges of him the ſaid <hi>William Ward,</hi> if hee would goe over with him; which profer was moſt gladly accepted of.</p>
+            <p>That the ſaid <hi>William Ward</hi> all his life time un<g ref="char:EOLhyphen"/>till he came acquainted with the ſaid Maſter <hi>Dutton</hi> was conformable to the Church of England, and a very good Proteſtant. But the ſaid Maſter <hi>Dutton</hi> being a Roman C<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tholick (though at firſt unknown to the ſaid <hi>William Ward</hi>) in the ſpace of ſeven yeeres converted him from a good member and ſupporter of the Church to be a demoliſher of the ſame. Hee that before could withſtand and op<g ref="char:EOLhyphen"/>poſe the arguments of his adverſaries, is now confuted with an erronious reaſon. In briefe, hee is a moſt idolatrous Papiſt, an adorer of Saints and Angels, and a moſt ſuperſticious
+<pb facs="tcp:151404:5"/>
+               <!-- PDF PAGE 53 -->worſhipper of the Lord in, at, and before Ima<g ref="char:EOLhyphen"/>ges.</p>
+            <p>Afterwards he returned into England and came to London, where (as he confeſt) hee lodged at a Prieſts houſe in Saint Giles in the fields, where finding cold entertainment, thought it his beſt courſe to repaire to the Papiſts Sanctuary Rome, and then was admitted into the Popes pre<g ref="char:EOLhyphen"/>ſence, who approving his learning and his jelous affectation of idolatry, beſtowes preferments and all the degrees upon him belonging to a Ie<g ref="char:EOLhyphen"/>ſuite, and finding him a fit member for his pur<g ref="char:EOLhyphen"/>poſe, ſends him againe into England, to ſeduce Proteſtants to his Antichriſtian Religion, promi<g ref="char:EOLhyphen"/>ſeth him rewards for his ſedulity and diligence, diſpenſations and pardons, for any ſinne how hai<g ref="char:EOLhyphen"/>nous ſoever.</p>
+            <p>He is now returned into England, hee lodged ſometimes in Coventgarden, in Bowſtreet, and re<g ref="char:EOLhyphen"/>ſorted much to all places where there was a gene<g ref="char:EOLhyphen"/>rall concurſe of people and diſcourſes with them as he found occaſion, hee would not loſe the leaſt opportunity, but would ſound the affections of people, and learne how they were inclined, and accordingly he would fit his diſcourſe.</p>
+            <p>By theſe meanes hee ſeduced many, and con<g ref="char:EOLhyphen"/>ſtantly every month changed his name, lodging and habit, ſo that it was almoſt impoſſible to take him tardy in his dangerous enterpriſes; but the quicke eie of the bleſſed Parliament, that like the ſunne ſends it luſtre through the leaſt cranie, and
+<pb facs="tcp:151404:5"/>
+               <!-- PDF PAGE 53 -->with its vigilancy findes out things intended for obſcurity, amongſt other enormities eſpies this catterpiller, whereupon he was according to Law of this land accuſed and convicted of high treaſon, and found guilty of theſe and many more illegall courſes tending wholly to the ruine of religion, and the prejudice of the common Wealth, which would be too tedious to relate in this ſmal volume, wherefore I referre you to his examination and confeſſion.</p>
+            <p>For which offences he was executed at Tiburne the ſix and twentieth day of Iuly 1641. in this manner, firſt he was hanged upon the tree, and when he was halfe dead his body was ript, and his heart, his bowells and privy members were throwne into the fire, with a generall acclamation God ſave the King, and then his limbes were ſevered from his body, and order given to bee hanged upon the City gates, to the everlaſting glo<g ref="char:EOLhyphen"/>ry of God, joy of good Chriſtians, and ſhame and confuſion of that bloody and ſuperſtitious ſect of Rome.</p>
+            <div type="part">
+               <head>The true confeſsion of the ſaid <hi>Ward</hi> at <hi>Tiburne.</hi>
+               </head>
+               <p>HE ſtanding in the cart with the rope about his necke, was deſired to confeſſe and lay open his confeſſion, and he then confeſſed he had beene a Prieſt theſe twenty and foure yeares, and that hee would die in that religion, and that he ſhould bee
+<pb facs="tcp:151404:6" rendition="simple:additions"/>
+                  <!-- PDF PAGE 54 -->canonized for a Martyr, and he h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld it a meritori<g ref="char:EOLhyphen"/>ous act of ſalvation to ſeduce people, which hee had done all the time he had beene a Prieſt</p>
+               <p>And they deſiring him to mention ſome parti<g ref="char:EOLhyphen"/>cular people he had ſeduced, and the meanes hee uſed to ſeduce them; confeſſed that when he lay in Curſitors Alley hee ſeduced a mans wife, and indeavoured to ſeduce her husband, who he found very tract<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble, but ſo unconſtant, that he thought he was of all religions, and being deſired to tell their names he would not by any meanes.</p>
+               <p>He confeſſed likewiſe that he was an intelligen<g ref="char:EOLhyphen"/>cer of the French of all the newes happening here in England; and withall ſolemnly proteſted, that if his inlargement were offered him on the condi<g ref="char:EOLhyphen"/>tion to turne Proteſtant he would not accept of it; for he was ſure of ſ<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lvation through his owne me<g ref="char:EOLhyphen"/>rits, and that he ſaw the bleſſed Virgin in heaven interceding for him.</p>
+               <p>His confeſſion being ended, he drew out of his pocket a long wallet purſe, wherein was great ſtore of mony; and called a particular perſon to him, unto whom he gave the ſame, and gave him a charge to diſpoſe of it according to his former directions.</p>
+               <p>The hangman hearing him blaſpheme ſo, bade drive on the cart: the Ieſuit croſſed himſelfe, and loudly invocated on the Virgin <hi>Mary,</hi> untill his breath was ſtopt.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:151404:6"/>
+               <!-- PDF PAGE 54 -->
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
